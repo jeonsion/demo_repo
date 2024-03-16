@@ -2,4 +2,6 @@
 
 This is demo_repo for github tutorial
 
-hi
+hi my name is Sion Jeon
+
+This is test
